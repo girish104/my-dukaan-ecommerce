@@ -53,6 +53,7 @@ This project uses React's Context API to manage global state for a product catal
     npm install  -  npm install react-router-dom  --   npm install react-icons
 
 
-6. ```bash
-   
+6. Run
+
+   ```bash
    npm run dev
