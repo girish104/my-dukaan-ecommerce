@@ -38,17 +38,21 @@ This project uses React's Context API to manage global state for a product catal
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/girish104/my-dukaan-ecommerce
 
-2. cd 
+3. cd
+   
     ```bash
     my-dukaan-ecommerce 
 
-3. Install
+4. Install
+
     ```bash
     npm install  -  npm install react-router-dom  --   npm install react-icons
 
 
-4. ```bash
-     npm run dev
+6. ```bash
+   
+   npm run dev
